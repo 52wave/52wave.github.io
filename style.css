@@ -176,8 +176,6 @@ a[href]{
     font-size: 14px;
 }
 
-
-
 .container__elem-read-more{
     display: flex;
     margin: 16px 0px;
@@ -185,6 +183,8 @@ a[href]{
 .container__elem_read-more a{
     font-weight: bold;
 }
+
+/* мобильное меню */
 
 .mobile-menu{
     width: 320px;
